@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# Database
+*.db
+
+# Certificates
+*.pem
+
+# Log files
+*.log

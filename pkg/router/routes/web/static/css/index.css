@@ -1,0 +1,18 @@
+.container {
+    height: 100vh;
+}
+
+.card {
+    width: 400px;
+    text-align: center;
+}
+
+#timeDisplay {
+    margin-top: 20px;
+}
+
+button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
